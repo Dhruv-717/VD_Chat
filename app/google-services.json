@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "729932716882",
+    "firebase_url": "https://vdchat-fd02e.firebaseio.com",
+    "project_id": "vdchat-fd02e",
+    "storage_bucket": "vdchat-fd02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729932716882:android:a2dc4403bdd632dc",
+        "android_client_info": {
+          "package_name": "com.dhruv717.android.vdchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729932716882-7kmokdfav3smprnbllbtvecmmk3icpeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhruv717.android.vdchat",
+            "certificate_hash": "86bad29cd68929acfdd6c2f5d3263866643a4671"
+          }
+        },
+        {
+          "client_id": "729932716882-ts2lv5ev8kq1lll58ndvconguo9l0hm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh7j3R1_I4Is_MSowb5xFgbeTEpZLUD3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729932716882-ts2lv5ev8kq1lll58ndvconguo9l0hm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
